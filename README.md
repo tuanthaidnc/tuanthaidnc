@@ -19,23 +19,6 @@ copies of private production systems. No verified external adoption or npm
 publication is claimed. Each includes an MIT license, synthetic examples,
 TypeScript declarations and reproducible runtime/package checks.
 
-### [commerce-calendar](https://github.com/tuanthaidnc/commerce-calendar)
-
-An MIT-licensed JavaScript library for business-day calendars and staged
-processing/shipping estimates, with explicit time zones and configurable
-holidays. It includes TypeScript declarations, examples and automated tests.
-
-- [Source release 0.1.0](https://github.com/tuanthaidnc/commerce-calendar/releases/tag/v0.1.0)
-- [CI results](https://github.com/tuanthaidnc/commerce-calendar/actions)
-- [Roadmap](https://github.com/tuanthaidnc/commerce-calendar/blob/main/ROADMAP.md)
-- [API reference](https://github.com/tuanthaidnc/commerce-calendar/blob/main/docs/API.md)
-- [Maintenance policy](https://github.com/tuanthaidnc/commerce-calendar/blob/main/MAINTAINERS.md)
-- [Report a reproducible issue](https://github.com/tuanthaidnc/commerce-calendar/issues/new/choose)
-
-**Status:** early-stage project, with no verified external adoption yet. It is
-not published on npm or integrated into Wondroot production. Practical store
-experience inspired it; this does not imply public usage or community scale.
-
 ## Approach
 
 I work with Codex to implement and test software. Changes should have clear
